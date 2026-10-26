@@ -1,0 +1,17 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Sách 01",
+      "author": "Nguyễn Nhật Ánh",
+      "borrowedBy": 0
+    },
+    {
+      "id": 2,
+      "title": "Sách 02",
+      "author": "Nam Cao",
+      "borrowedBy": 0
+    }
+  ],
+  "students": []
+}
